@@ -1,2 +1,2 @@
 <h1> Design Tips and Tricks </h1>
-holdPhotos
+<h2>Photos</h2>
