@@ -7,4 +7,6 @@ When choosing a photo it is import to choose one with a high contrast. Photos ta
 <img src="https://raw.githubusercontent.com/SkillMillNYC/productPhotos/master/documents/design%20tips%20and%20tricks/photos/einstien_bad.png"/>
 </div>
 
+**Good
+
 
